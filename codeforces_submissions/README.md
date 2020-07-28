@@ -1,22 +1,19 @@
-CodeforcesSolutionDownloader
-============================
+This repoitory containes all the submissions that were accepted in codeforces (almost). I used a script for this and that script failed in some cases. The files are structued in this way:
 
-A small script for downloading *ACCEPTED* solutions from codeforces.com
 
-Install the dependency `bs4`
-```
-pip install bs4
-```
+      user->
+          ->contest_id
+              ->submission_id
 
-Run main.py and pass the user handle as argument
 
-```
-python main.py <user_handle>
-```
 
-For example,
-```
-python main.py Petr
-```
 
-It will create folders with the user handle and Codeforces rounds under `Solutions` folder and place the solutions there.
+
+
+
+
+
+
+
+
+
