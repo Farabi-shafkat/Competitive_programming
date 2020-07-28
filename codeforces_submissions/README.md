@@ -5,6 +5,7 @@ This repoitory containes all the submissions that were accepted in codeforces (a
           ->contest_id
               ->submission_id
 
+main.py is a python 2 script used to scrape these ac submissions from my id in codeforces using codeforces API and bs4 library. 
 
 
 
